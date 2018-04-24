@@ -13,7 +13,7 @@ body {
 
 #containe {
     background: url('../img/ban5.jpg');
-    height: 250px;
+    height: auto;
     width: 100%;
     position: relative;
 }
