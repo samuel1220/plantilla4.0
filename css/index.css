@@ -70,7 +70,8 @@ body {
 }
 
 #idnav {
-    width: 2900px;
+   /* width: 2900px;*/
+    width: 100%;  
 }
 
 .idgaul {
